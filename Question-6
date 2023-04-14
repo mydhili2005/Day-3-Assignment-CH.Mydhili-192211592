@@ -18,5 +18,3 @@ int main()
         printf(" %s and %s are not anagrams.\n", array1, array2);
     return 0;
 }
-Footer
-© 2023 GitHub, Inc.
